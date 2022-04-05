@@ -1,4 +1,4 @@
- ### Olá ! Eu sou Manoela Araújo 😁
+ ### <h2 align="center" > Olá ! Eu sou Manoela Araújo 😁</h2> 
 
 - 📚 Estudando React 
 - 🚀 trabalho na Startup  LOFT 
