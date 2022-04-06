@@ -1,4 +1,6 @@
- ### <h2 align="center" > Olá ! Eu sou Manoela Araújo 😁</h2> 
+ :![](https://github.com/Manuua/Manuua/upload/main)
+### <h2 align="center" > Olá ! Eu sou Manoela Araújo 😁</h2> 
+ <img src = "https://github.com/Manuua/Manuua/upload/main"/> 
 
 - 📚 Estudando React 
 - 🚀 trabalho na Startup  LOFT 
